@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!-- function button colors-->
+    <color name="colorFuncButtonBG">#333333</color>
+    <color name="colorFuncButtonTxt">#c4c4c4</color>
+
+    <!-- number button colors-->
+    <color name="colorNumButtonBG">#c4c4c4</color>
+    <color name="colorNumButtonTxt">#333333</color>
+
+</resources>
